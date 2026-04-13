@@ -1,4 +1,4 @@
-Inpainting damaged signals using deep learning
+Inpainting damaged signals using deep learning / gonna share more details and results, data
 
 <img width="1648" height="452" alt="image" src="https://github.com/user-attachments/assets/f43b19ad-0fb7-4ef4-b85e-4e6f0483c0c7" />
 
